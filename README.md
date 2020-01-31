@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GoodGames
 Project-2
 # GoodGames
@@ -41,3 +42,6 @@ Developers involved:
 # Nick Macon
 # Vanessa Wiedeman
 
+=======
+# goodgameshtml
+>>>>>>> 61c5d3345631f7d6bec2924d59e82399898fc2e4
