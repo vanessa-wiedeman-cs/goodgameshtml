@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 # GoodGames
 Project-2
 # GoodGames
+
+-Project link: https://goodgamesutsabootcampspot.herokuapp.com/
+
 Summary:
 
 GoodGames is an application built for gamers, by gamers. It is a platform designed to let all gamers, casual or hardcore, share their views on upcoming games they're looking to play, and/or games they've already played. Users will either log in or sign up to the server in order to access the following information:
