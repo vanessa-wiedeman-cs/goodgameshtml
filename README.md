@@ -45,7 +45,7 @@ Group-Project-2
 
 # Developers involved: 
 - Abiel Hailemariam
-- Nick Macon
+- Nick Macon  
 - Vanessa Wiedeman  
 
 =======
