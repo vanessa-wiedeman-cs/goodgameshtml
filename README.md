@@ -43,7 +43,7 @@ Group-Project-2
 - Express-Handlebars
 - MySQL
 
-# Developers involved:
+# Developers involved: 
 - Abiel Hailemariam
 - Nick Macon
 - Vanessa Wiedeman
