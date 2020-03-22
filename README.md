@@ -1,3 +1,17 @@
+
+# GoodGames
+
+- Project Goal:   
+
+  - 
+  
+ Project link: 
+ 
+- Requirements:  
+  
+  - Deployed (Heroku)
+
+
 # GoodGames
 Group-Project-2
 # GoodGames
