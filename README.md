@@ -31,7 +31,7 @@ Group-Project-2
   
   - Deployed (Heroku)
 
-# Technologies Used:
+# Technologies Used:  
 - Visual Studio Code
 - Node
 - Bootstrap
