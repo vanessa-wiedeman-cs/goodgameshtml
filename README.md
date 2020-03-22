@@ -1,6 +1,7 @@
 
-# GoodGames
-Group-Project-2
+# GoodGames  
+  Group-Project-2
+
 - Project link: https://goodgamesutsabootcampspot.herokuapp.com/
 
 - Project Goal:   
