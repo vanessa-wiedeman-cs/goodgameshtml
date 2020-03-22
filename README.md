@@ -10,7 +10,7 @@ Group-Project-2
 - Home Page:
   - Trending Tweets related to a video game the user is interested in
   - A "Featured" review which would include the latest edited review or preview from any user in the database
-  - A Login form
+  - A Login form 
 
 - The Game Reviews tab on the navbar will direct the user to games they have already played and reviewed. From there, they will be able to access the following information:
 
