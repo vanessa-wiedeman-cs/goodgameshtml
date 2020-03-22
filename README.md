@@ -35,7 +35,7 @@ Group-Project-2
 - Visual Studio Code
 - Node
 - Bootstrap
-- Twitter Widgets
+- Twitter Widgets  
 
 # Node Packages:
 - Sequelize
